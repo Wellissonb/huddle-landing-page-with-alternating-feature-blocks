@@ -20,7 +20,7 @@
 ### Links
 
 - Solution URL: [https://github.com/Wellissonb/huddle-landing-page-with-alternating-feature-blocks]
-- Live Site URL: [https://github.com/Wellissonb/huddle-landing-page-with-alternating-feature-blocks]
+- Live Site URL: [https://wellissonb.github.io/huddle-landing-page-with-alternating-feature-blocks/]
 
 ## My process
 

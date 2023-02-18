@@ -1,0 +1,105 @@
+@charset 'UTF-8';
+
+@media screen and (min-width: 1000px){
+
+    header{
+  
+        padding: 30px 60px 80px 60px
+    }
+    
+    header a#header-button{
+        font-size: 15px;
+    }
+
+    div#background{
+        padding-bottom: 100px;
+        background-image: url(../images/bg-hero-desktop.svg);
+        background-position: left left;
+ 
+    }
+
+    section#commumnity-section{
+        text-align: left;
+        display: flex;
+        gap: 60px;
+    }
+
+   
+    section#commumnity-section h1{
+        font-size: 2.3em;
+    }
+
+    main{
+        text-align: left;
+       
+    }
+
+    section#commumnity-section img{
+        align-self: flex-start;
+        width: 200%;
+        max-width: 650px;
+        min-width: 400px;
+    }
+
+    .sub-section{
+        display: flex;
+        flex-direction: row;
+        gap: 150px;
+        justify-content: space-between;
+        max-width: 90%;
+        padding: 80px 100px;
+    }
+
+    .sub-section img{
+        max-width: 300px;
+    }
+
+    section#flowing-section{
+        flex-direction: row-reverse;
+    }
+
+    section#infooter-section{
+        margin: auto;
+        max-width: 700px;
+
+        text-align: center;
+    }
+
+    footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-left: 100px;
+        padding-right: 100px;
+
+    }
+
+    footer div#container-icone{
+        width: 400px;
+    }
+    
+    footer div#container-about-us{
+        display: flex;
+        gap:90px;
+    }
+
+    footer div#copyright{
+        align-self: flex-end;
+    }
+    
+    footer div#infoFooter{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+
+    footer p#copyright{
+      text-align: right;
+    }
+    
+
+
+
+
+}

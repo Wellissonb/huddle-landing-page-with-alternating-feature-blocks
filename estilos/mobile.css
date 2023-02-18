@@ -75,7 +75,8 @@ a#header-button:hover{
 div#background{
     background-image: url(../images/bg-hero-mobile.svg);
 
-    background-position: top left;
+    background-position: top center;
+    background-size: 50% 50%;
     background-repeat: no-repeat;
     text-align: center;
 }
@@ -85,7 +86,7 @@ main{
     margin: auto;
     font-family: 'Poppins', sans-serif;
     padding: 0px 25px;
-     background-color: var(--cianoPalido);
+    background-color: var(--cianoPalido);
 }
 
 
